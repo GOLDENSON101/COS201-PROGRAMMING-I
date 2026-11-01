@@ -1,9 +1,9 @@
 # COS 201 — Computer Programming I
 
 ## Student Information
-- Name: [Enter your full name]
-- Matriculation Number: [Enter your matriculation number]
-- Programme: Computer Science
+- Name: TALABI TESLIM BABALOLA
+- Matriculation Number: 26/21622
+- Programme: CYBERSECURITY
 - Course: COS 201
 - Level: 200
 
